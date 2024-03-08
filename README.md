@@ -1,2 +1,5 @@
-# Database_Otter
-Banco de dados do "Otter", Projeto do 3° Semestre de ADS em 2024
+<h1 align="center">🌀Nebulon Dashboard - Database</h1>
+   <p align="center">
+   <image alt="header-nebulon-db" src="https://github.com/Byte-Boost/Database_Nebulon/assets/105757405/1edadb04-2bb0-4079-a843-778d2f907669"/>   
+   </p>
+<hr>    
